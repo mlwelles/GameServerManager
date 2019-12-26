@@ -1,4 +1,4 @@
-package LaunchAndHookToServer
+package launchandhooktoserver
 
 import (
 	"bufio"

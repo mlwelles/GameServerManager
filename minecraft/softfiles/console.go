@@ -1,4 +1,4 @@
-package SoftFiles
+package softfiles
 
 import (
 	"bufio"
